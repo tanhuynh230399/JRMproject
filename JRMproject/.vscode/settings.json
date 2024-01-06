@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./projectark/Udacity/Tests",
+        "./projectark/Udacity/OOP"
+    ]
+}
